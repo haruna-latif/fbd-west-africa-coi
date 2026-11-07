@@ -1,0 +1,1 @@
+source: WHO Foodborne Disease Estimates 2026 edition, xmart-api-public.who.int/NUTRITION/FACT_FBD, FACT_YEAR 2021, all 42 hazards total (HAZARD1_ALL), both sexes. low/high = 95% UI

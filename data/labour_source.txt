@@ -1,0 +1,1 @@
+source: World Bank WDI via api.worldbank.org, SL.TLF.CACT.ZS and SL.EMP.TOTL.SP.ZS (modeled ILO), 2023, lastupdated 2026-10-08

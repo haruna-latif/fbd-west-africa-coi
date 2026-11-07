@@ -1,0 +1,2 @@
+source: World Bank WDI api.worldbank.org 2023 (SP.POP.TOTL, SP.POP.0014.TO.ZS, NY.GDP.PCAP.CD, NY.GNP.PCAP.PP.CD), lastupdated 2026-10-08
+gdp_ppp_2023.csv: World Bank WDI NY.GDP.PCAP.PP.CD, 2023, current international dollars; API lastupdated 2026-10-08; retrieved 2026-11-07. Used with NY.GDP.PCAP.CD to get the market-to-PPP ratio.

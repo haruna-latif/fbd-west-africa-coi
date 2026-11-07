@@ -1,0 +1,3 @@
+income: World Bank country API (api.worldbank.org/v2/country), current classification, retrieved 2026-11-07.
+cons_pct_2023: World Bank WDI NE.CON.PRVT.ZS, 2023 (lastupdated 2026-10-08); missing for LBR and NGA.
+gdppc_usd_2021: World Bank WDI NY.GDP.PCAP.CD, 2021 (lastupdated 2026-10-08).

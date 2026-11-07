@@ -1,0 +1,9 @@
+"item","model","study","ratio"
+"Burkina Faso total, HC (int$ m)",334.845645884503,391,0.856382726047323
+"Burkina Faso total, VSL-A (int$ m)",316.078624026753,391,0.808385227689905
+"Burkina Faso productivity (int$ m)",94.5874538092522,275,0.34395437748819
+"Nigeria productivity (USD m)",687.870131983661,5350,0.128573856445544
+"Nigeria VSL mortality (USD m), diarrhoeal deaths",4608.6766830147,16000,0.288042292688418
+"Nigeria VSL mortality (USD m), all-hazard deaths",5785.82594310483,16000,0.361614121444052
+"Outpatient direct cost per case (2023 USD), Nigeria",10.6702183458008,70.638741115627,0.1510533480252
+"Inpatient direct cost per admission (2023 USD), Nigeria",88.8842043889961,113.145,0.78557783719118
